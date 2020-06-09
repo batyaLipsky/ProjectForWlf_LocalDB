@@ -1,0 +1,14 @@
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\Travel_In_GroupDB.mdf
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\Travel_In_GroupDB_log.ldf
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\DAL.dll.config
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\DAL.dll
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\DAL.pdb
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\EntityFramework.dll
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\EntityFramework.xml
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\obj\Debug\DAL.dll
+C:\Users\משתמש\source\repos\APITravel_In_Group\DAL\obj\Debug\DAL.pdb
